@@ -1,4 +1,25 @@
-Pacman-Clone
+APK: https://cloud.wsad.io/index.php/s/qMkgpMaJWYfGfio
+Space: http://www.ivan-malone.xyz/social/index.php?r=space%2Fspace&cguid=baade837-2ad0-412c-bc44-aaf242855ef9
+
+
+
+Open in unity on device with Cam - either play in editor or build to device (android, ios). 
+
+
+
+Use Image Database scene in menu
+
+Point at default card for Vuforia (astronaut) 
+
+Play Pac Man infront of AR rig
+
+
+
+There is a bug where the pacman isn't actually played but since this is a repair themed Jam I leave that to the end user to repair. 
+
+This project was originally based on another JAM as my focus was playing with Vuforia not with making a game. 
+
+So I took classic Pacman-Clone
 ============
 
 ![Screenshot](http://i.imgur.com/GQcmfQY.png)
